@@ -1,0 +1,15 @@
+html,body{
+  /* font-family:sans-serif; */
+  font-family:'Courier New', Courier, monospace;
+  background-color:white;
+}
+#output{
+  /* The command I know best. */
+  text-transform:uppercase;
+  color:darkorange;
+  font-size:6em;
+  font-weight:bold;
+  text-align:left;
+  text-shadow:0.05em 0.05em 5px #444;
+  letter-spacing: 5px;
+}
